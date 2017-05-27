@@ -14,8 +14,10 @@ You can aslo save the picture by pressing the `P` key
 
 To run the application just type in the console (_without the dollar sign_): 
 ```
-$ npm app.js
+$ electron app.js
 ```
+
+You previously must installed the required packages with `npm install`.
 
 ---
 This is just an implemetation of the workshop [Elementary electron][ref-ee] posted as well in 
