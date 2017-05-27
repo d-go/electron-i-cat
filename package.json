@@ -1,7 +1,7 @@
 {
   "name": "electron-i-cat",
   "version": "1.0.0",
-  "description": "A simple application that displays a cat, yay!",
+  "description": "A simple application that displays a cat picture, yay!",
   "main": "app.js",
   "scripts": {
     "test": "npm test.js"
